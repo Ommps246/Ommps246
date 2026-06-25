@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a first year student of b tech cse data science in srmist ktr campus <br>I am familiar with python c++, type script and .tsx java html css languages <br>
+I am a  student of b tech cse data science in srmist ktr campus <br>I am familiar with python c++, type script and .tsx java html css languages <br>
 
 
 # 💻 Tech Stack:
