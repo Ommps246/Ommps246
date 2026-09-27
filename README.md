@@ -108,11 +108,11 @@ Multimodal duress detection against *digital arrest* scams — fuses on-device c
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ommps246&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="100%" alt="contribution chart" src="https://ghchart.rshah.org/36BCF7/Ommps246" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ommps246&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+  <a href="https://github.com/Ommps246/spacejammers-casefiles"><img src="https://github-readme-stats.shion.dev/api/pin/?username=Ommps246&repo=spacejammers-casefiles&theme=tokyonight&hide_border=true" /></a>
 </p>
 
 ---
